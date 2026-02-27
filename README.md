@@ -24,7 +24,7 @@ Actualmente busco mi primer empleo como programadora en **España**.
 
 ## 💼 Experiencia profesional
 
-- **Desarrolladora Frontend (Prácticas)** – Kairos Digital Solutions  - Junio – Septiembre 2025 
+### Desarrolladora Frontend (Prácticas)** – Kairos Digital Solutions  - Junio – Septiembre 2025 
   
 - Desarrollo de interfaces web frontend con HTML, CSS, JavaScript, React y Lit.
 - Maquetación responsive con Builder.io siguiendo diseños en Figma.
@@ -44,7 +44,6 @@ Actualmente busco mi primer empleo como programadora en **España**.
 
 ## 🎓 Formación Complementaria
 
-- **Certificados y Cursos** – 
  
 - Certificado de superación. Iniciación a React. Kairós Digital Solutions S.L. 2025 (12 h).
 - Curso PHP: Ampliando conceptos. Openwebinars. 2025 (8 h).
@@ -74,12 +73,12 @@ App web para gestionar y cuidar tus plantas, con **tests**, **lógica modular** 
 
 Otros proyectos destacados:
 
-- **Portfolio personal** – [Demo]([https://veronica-gi.github.io/portfolio/]) | [Repo]([https://github.com/veronica-gi/portfolio])  
-- **Memory Game** – [Demo](https://veronica-gi.github.io/memory-game/) | [Repo]([https://github.com/veronica-gi/memory-game.git])
+- **Portfolio personal** – [Demo]([https://veronica-gi.github.io/portfolio/) | [Repo](https://github.com/veronica-gi/portfolio)  
+- **Memory Game** – [Demo](https://veronica-gi.github.io/memory-game/) | [Repo](https://github.com/veronica-gi/memory-game.git)
 
 ---
 
 ## 📫 Contacto
 
-- [LinkedIn]([tu-linkedin](https://es.linkedin.com/in/verónicagarcíaiglesias)  
+- [LinkedIn]((https://es.linkedin.com/in/verónicagarcíaiglesias)  
 - Email: veronicagaiglesias@gmail.com
