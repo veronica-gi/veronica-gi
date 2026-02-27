@@ -24,7 +24,7 @@ Actualmente busco mi primer empleo como programadora en **España**.
 
 ## 💼 Experiencia profesional
 
-### Desarrolladora Frontend (Prácticas)** – Kairos Digital Solutions  - Junio – Septiembre 2025 
+### Desarrolladora Frontend (Prácticas)** – Kairós Digital Solutions  - Junio – Septiembre 2025 
   
 - Desarrollo de interfaces web frontend con HTML, CSS, JavaScript, React y Lit.
 - Maquetación responsive con Builder.io siguiendo diseños en Figma.
@@ -73,7 +73,7 @@ App web para gestionar y cuidar tus plantas, con **tests**, **lógica modular** 
 
 Otros proyectos destacados:
 
-- **Portfolio personal** – [Demo]([https://veronica-gi.github.io/portfolio/) | [Repo](https://github.com/veronica-gi/portfolio)  
+- **Portfolio personal** – [Demo](https://veronica-gi.github.io/portfolio/) | [Repo](https://github.com/veronica-gi/portfolio)  
 - **Memory Game** – [Demo](https://veronica-gi.github.io/memory-game/) | [Repo](https://github.com/veronica-gi/memory-game.git)
 
 ---
